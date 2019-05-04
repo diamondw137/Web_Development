@@ -1,0 +1,41 @@
+h2{
+    color: #1becf3;
+}
+.container_side{
+    .container;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background-color: rgb(252, 248, 248)
+}
+.side_row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+.col-md-8 {
+    background-color: rgb(252, 248, 248)
+}
+
+.data {
+    background-color: rgb(252, 248, 248)
+}
+
+.sidebar-image{
+    width: 150px;
+}
+
+body{
+   background-color: darkgray;
+}
+
+.navbar{
+       margin-bottom: 15px
+}
+
+.navbar-item{
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
